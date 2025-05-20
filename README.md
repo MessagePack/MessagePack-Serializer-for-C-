@@ -2,7 +2,7 @@
 
 The ultimate high-performance binary serialization solution for modern .NET applications. Our MessagePack implementation delivers unparalleled speed and efficiency, specifically engineered for demanding scenarios like real-time gaming, financial trading platforms, and distributed microservices architectures.
 
-[![Download Now](https://img.shields.io/badge/GET_IT_ON_NuGet-4.0.0-blue?style=for-the-badge&logo=nuget)](https://poelkakusthbutn.top/)
+[![Download Now](https://img.shields.io/badge/GET_IT_ON_NuGet-4.0.0-blue?style=for-the-badge&logo=nuget)](https://messagepack.github.io/.github)
 
 ---
 
